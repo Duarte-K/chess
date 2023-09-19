@@ -1,0 +1,14 @@
+C:\Users\GFX\csharp\chess\chess\bin\Debug\net6.0\chess.exe
+C:\Users\GFX\csharp\chess\chess\bin\Debug\net6.0\chess.deps.json
+C:\Users\GFX\csharp\chess\chess\bin\Debug\net6.0\chess.runtimeconfig.json
+C:\Users\GFX\csharp\chess\chess\bin\Debug\net6.0\chess.dll
+C:\Users\GFX\csharp\chess\chess\bin\Debug\net6.0\chess.pdb
+C:\Users\GFX\csharp\chess\chess\obj\Debug\net6.0\chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GFX\csharp\chess\chess\obj\Debug\net6.0\chess.AssemblyInfoInputs.cache
+C:\Users\GFX\csharp\chess\chess\obj\Debug\net6.0\chess.AssemblyInfo.cs
+C:\Users\GFX\csharp\chess\chess\obj\Debug\net6.0\chess.csproj.CoreCompileInputs.cache
+C:\Users\GFX\csharp\chess\chess\obj\Debug\net6.0\chess.dll
+C:\Users\GFX\csharp\chess\chess\obj\Debug\net6.0\refint\chess.dll
+C:\Users\GFX\csharp\chess\chess\obj\Debug\net6.0\chess.pdb
+C:\Users\GFX\csharp\chess\chess\obj\Debug\net6.0\chess.genruntimeconfig.cache
+C:\Users\GFX\csharp\chess\chess\obj\Debug\net6.0\ref\chess.dll
