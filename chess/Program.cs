@@ -37,7 +37,9 @@ namespace chess{
                         Console.WriteLine(e.Message);
                         Console.ReadLine();
                     }
-                }     
+                }
+                Console.Clear();
+                Tela.imprimirPartida(partida);
             }
             catch (TabuleiroException ex)
             {
